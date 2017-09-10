@@ -1,5 +1,5 @@
 # Heart_Disease_Classification
-This system can classify heart disease using machine learning algorithm with 70% accuracy.
+This system can classify heart disease using customized machine learning algorithm with 70% accuracy.
 
 Dataset used : Heart Disease  (UCI Repository)
 
